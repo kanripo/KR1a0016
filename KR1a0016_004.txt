@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 伊川易傳
-#+DATE: 2015-09-23 09:34:15
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:53:49.261965
+#+PROPERTY: ID KR1a0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0016_WYG_004-1a>¶
 欽定四庫全書¶
 　伊川易傳卷四¶
@@ -2288,4 +2290,3 @@
 　義命也能安則不失其常矣¶
 　¶
 　伊川易傳卷四¶
-
